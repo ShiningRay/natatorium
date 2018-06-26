@@ -1,0 +1,37 @@
+{
+  "name": "natatorium",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShiningRay/natatorium.git"
+  },
+  "keywords": [],
+  "author": "ShiningRay",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShiningRay/natatorium/issues"
+  },
+  "homepage": "https://github.com/ShiningRay/natatorium#readme",
+  "devDependencies": {
+    "@types/chai": "^4.1.4",
+    "@types/mocha": "^5.2.3",
+    "@types/nanoid": "^1.0.0",
+    "@types/node": "^10.3.5",
+    "chai": "^4.1.2",
+    "mocha": "^5.2.0",
+    "ts-node": "^7.0.0",
+    "typescript": "^2.9.2"
+  },
+  "dependencies": {
+    "nanoid": "^1.0.4",
+    "network-address": "^1.1.2",
+    "npm": "^6.1.0",
+    "swim": "^0.6.0",
+    "udp-free-port": "^1.0.0"
+  }
+}
